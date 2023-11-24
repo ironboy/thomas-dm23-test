@@ -1,0 +1,15 @@
+{
+  "name": "thomas-dm23-test",
+  "version": "1.0.0",
+  "description": "Ett fint test fabulöst otroligt amazing repo for att borja lara sig. \r Något positivt.\r Hej hej :)\r ¯\\_(ツ)_/¯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exifr": "^7.1.3"
+  }
+}
